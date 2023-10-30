@@ -6,4 +6,6 @@ const port = process.env.PORT || 4002;
 
 server.use(cors());
 server.use(router);
-server.listen(port);
+server.listen(port, () => {
+  console.log(`${port}`);
+});
