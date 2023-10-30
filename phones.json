@@ -1,0 +1,74 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "Realme 11 Pro 5G 8/256GB Amoled FHD",
+      "price": 358.99,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/1073/10736966/1333-realme-11-pro-5g-8-256gb-astral-black-libre.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy A70 6/128GB",
+      "price": 464.78,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/20/207649/es-galaxy-a70-a705-sm-a705fzkuphe-frontblack-157773391.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S21 Plus 5G",
+      "price": 704.0,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/34/348309/1936-samsung-galaxy-s21-plus-5g-128gb-negro-libre.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 14 128GB",
+      "price": 859.0,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/1058/10581402/1222-apple-iphone-14-128gb-purpura-libre.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 5,
+      "name": "Motorola Edge 30 Ultra 12/256GB",
+      "price": 558.0,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/1058/10586256/197-motorola-edge-30-ultra-12-256gb-gris-libre.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Mi A2 Lite 3/32GB 4G",
+      "price": 158.99,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/16/168803/litedoradogood.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 7,
+      "name": "Realme GT Master Edition 5G 6/128GB",
+      "price": 288.24,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/51/514465/1233-realme-gt-master-6-128gb-5g-negro-libre-review.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 8,
+      "name": "Apple iPhone 11 128 GB",
+      "price": 569.0,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/34/348191/1707-apple-iphone-11-128-gb-negro-libre.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 9,
+      "name": "Apple iPhone 14 Pro Max 128GB",
+      "price": 1229.0,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/1058/10581309/1144-apple-iphone-14-pro-max-128gb-negro-espacial-libre-665bd4a4-94d3-4940-b49e-65c27d4fb13d.jpg",
+      "isSelected": false
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi PocoPhone F3 5G 6/128GB",
+      "price": 342.99,
+      "image": "https://thumb.pccomponentes.com/w-140-140/articles/40/404262/1571-xiaomi-pocophone-f3-5g-6-128gb-azul-libre.jpg",
+      "isSelected": false
+    }
+  ]
+}
